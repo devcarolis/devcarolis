@@ -11,6 +11,7 @@ Entrando no mundo do Front End, aprendendo HTML e CSS.
 
 <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcarolis&layout=compact&langs_count=7&theme=dracula"/>
 
-#Projetos
+# Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devcaroliz&repo=devweek.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devcarolis&repo=devweek.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
